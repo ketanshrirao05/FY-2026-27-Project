@@ -183,4 +183,4 @@ Raw PuTTY logs, temporary Quartus databases and redundant build outputs are excl
 
 ## License
 
-No project-wide license has been selected. Add a license before offering reuse rights for your original code. Terasic/Altera/Intel-generated files and third-party components remain subject to their respective licenses; a repository license does not override those terms.
+
